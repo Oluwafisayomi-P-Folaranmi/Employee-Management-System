@@ -60,6 +60,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-<p>&copy; 2024 Your Company Name. All rights reserved.</p>
+<p>&copy; 2024 Oluwafisayomi Folaranmi. All rights reserved.</p>
 
 
