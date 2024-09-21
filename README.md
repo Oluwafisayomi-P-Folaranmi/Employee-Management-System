@@ -11,7 +11,7 @@ The Employee Management System is a Spring Boot application designed to manage a
 - **Spring Boot**: Utilizes the Spring Boot framework for rapid development and deployment.
 - **Thymeleaf**: Integrated with Thymeleaf for server-side rendering of web pages.
 - **Spring Data and JPA**: Simplifies data access and manipulation by providing a consistent and easy-to-use framework for working with various data stores, including relational databases, NoSQL databases, and more. It leverages Spring Data JPA to offer powerful repository abstractions, reducing boilerplate code and enabling developers to focus on business logic.
-- **Spring MVC**
+- **Spring MVC**: A robust framework for building web applications using the Model-View-Controller (MVC) design pattern. It facilitates the development of flexible and loosely coupled web applications by separating the application logic (Model), user interface (View), and control flow (Controller). Spring MVC integrates seamlessly with other Spring components, making it a popular choice for developing scalable and maintainable web applications.
 
 ## Endpoints
 
